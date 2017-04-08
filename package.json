@@ -1,0 +1,11 @@
+{
+  "name": "crossposter",
+  "version": "1.0.0",
+  "description": "Crossposter landing page",
+  "main": "index.html",
+  "author": "Alexey Zolotyh",
+  "license": "MIT",
+  "dependencies": {
+    "spectre.css": "^0.2.12"
+  }
+}
